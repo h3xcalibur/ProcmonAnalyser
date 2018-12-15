@@ -17,5 +17,6 @@ Oh, and it also eliminates duplicates so you'll have a much-less messy filtered 
 ## Keep in touch
 This is only the beginning. Questions, requests, comments, and everything else will be happily recived
 
+- [X] Upload basic working script
 - [ ] Provide more interesting filters
 - [ ] Create an Elasticsearch dashboard from the filters
