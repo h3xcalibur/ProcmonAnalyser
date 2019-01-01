@@ -18,11 +18,6 @@ Oh, and it also eliminates duplicates so you'll have a much-less messy filtered 
 I love Elastic. Naturally this csv file found its way to my index, and got a nice dashboard.
 The dashboard simply has all the filters from the powershell script, shown in one place.
 
-![example](https://raw.githubusercontent.com/h3xcalibur/ProcmonAnalyser/master/KibanaDashboards/kibana.jpeg)
-![example](https://raw.githubusercontent.com/h3xcalibur/ProcmonAnalyser/master/KibanaDashboards/kibana2.jpeg)
-![example](https://raw.githubusercontent.com/h3xcalibur/ProcmonAnalyser/master/KibanaDashboards/kibana3.jpeg)
-![example](https://raw.githubusercontent.com/h3xcalibur/ProcmonAnalyser/master/KibanaDashboards/kibana4.jpeg)
-
 ## Keep in touch
 This is only the beginning. Questions, requests, comments, and everything else will be happily recived
 
